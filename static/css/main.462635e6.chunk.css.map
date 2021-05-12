@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA,EACI,QAAS,CACT,SACJ,CACA,MACI,UACJ","file":"main.462635e6.chunk.css","sourcesContent":["* {\r\n    margin: 0;\r\n    padding: 0;\r\n}\r\ninput {\r\n    width: 50px;\r\n}\r\n"]}

@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/solutioner/static/css/main.462635e6.chunk.css",
-    "main.js": "/solutioner/static/js/main.0f9edd5b.chunk.js",
-    "main.js.map": "/solutioner/static/js/main.0f9edd5b.chunk.js.map",
+    "main.css": "/solutioner/static/css/main.58faebf8.chunk.css",
+    "main.js": "/solutioner/static/js/main.8b7a9bbe.chunk.js",
+    "main.js.map": "/solutioner/static/js/main.8b7a9bbe.chunk.js.map",
     "runtime-main.js": "/solutioner/static/js/runtime-main.413155c7.js",
     "runtime-main.js.map": "/solutioner/static/js/runtime-main.413155c7.js.map",
-    "static/js/2.fc6bfea0.chunk.js": "/solutioner/static/js/2.fc6bfea0.chunk.js",
-    "static/js/2.fc6bfea0.chunk.js.map": "/solutioner/static/js/2.fc6bfea0.chunk.js.map",
+    "static/js/2.8bb1bf6f.chunk.js": "/solutioner/static/js/2.8bb1bf6f.chunk.js",
+    "static/js/2.8bb1bf6f.chunk.js.map": "/solutioner/static/js/2.8bb1bf6f.chunk.js.map",
     "index.html": "/solutioner/index.html",
-    "static/css/main.462635e6.chunk.css.map": "/solutioner/static/css/main.462635e6.chunk.css.map",
-    "static/js/2.fc6bfea0.chunk.js.LICENSE.txt": "/solutioner/static/js/2.fc6bfea0.chunk.js.LICENSE.txt"
+    "static/css/main.58faebf8.chunk.css.map": "/solutioner/static/css/main.58faebf8.chunk.css.map",
+    "static/js/2.8bb1bf6f.chunk.js.LICENSE.txt": "/solutioner/static/js/2.8bb1bf6f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.413155c7.js",
-    "static/js/2.fc6bfea0.chunk.js",
-    "static/css/main.462635e6.chunk.css",
-    "static/js/main.0f9edd5b.chunk.js"
+    "static/js/2.8bb1bf6f.chunk.js",
+    "static/css/main.58faebf8.chunk.css",
+    "static/js/main.8b7a9bbe.chunk.js"
   ]
 }
